@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HelixqR
 - 👀 I’m interested in HTML coding (web dev)
-- 🌱 I’m currently learning on javascript, css styling and minecraft shaders
+- 🌱 I’m currently learning on Javascript, CSS, Python, and Java
 
 <!---
 HelixqR/HelixqR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
